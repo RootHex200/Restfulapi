@@ -1,7 +1,6 @@
 
 
 require("dotenv").config()
-//P5NacwOQUECcO3D7
 
 const dev={
     app:{
